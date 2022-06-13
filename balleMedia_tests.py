@@ -1,6 +1,6 @@
 import unittest
-import balmedad_locators as locators
-import BalleMediaPracticum as methods
+import balleMedia_locators as locators
+import balleMedia_methods as methods
 
 
 class BalleMediaAppPositiveTestCases(unittest.TestCase):  # create class
